@@ -10,7 +10,7 @@ start_date = datetime(2021, 1, 1)
 # Set untuk menyimpan semua tautan dari semua halaman
 all_hrefs = set()
 
-# Perulangan melalui setiap tanggal
+# Perulangan melalui setiap tanggals
 current_date = start_date
 max_links = 4005
 counter = 0
